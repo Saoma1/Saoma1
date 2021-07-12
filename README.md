@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently diving **deeper into JS & react**
 
-- 👨‍💻 All of my projects are available at [https://saoma1.github.io/personal-page/](https://saoma1.github.io/personal-page/)
+- 👨‍💻 All of my projects are available at [www.sotiriosdimitriou.com](https://www.sotiriosdimitriou.com)
 
 
 <h3 align="left">Languages and Tools:</h3>
